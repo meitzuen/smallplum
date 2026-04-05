@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
@@ -42,7 +43,7 @@
     {% unless site.hide_credits %}
       <aside class="site-credits">
         <p>
-          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
+          <small><a href="https://github.com/meitzuen/smallplum">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
         </p>
       </aside>
     {% endunless %}

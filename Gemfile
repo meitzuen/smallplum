@@ -7,3 +7,4 @@ gemspec
 gem "jekyll-paginate"
 gem "bigdecimal"
 gem "webrick"
+gem "puma"
