@@ -1,6 +1,6 @@
 ---
-title: The Adventure of the Priory School
-author: Arthur Conan Doyle
+title: The Default Article - 2
+author: smallplum
 category: literature
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
-title: The Adventure of the Speckled Band
-author: Arthur Conan Doyle
+title: The Default Article - 3
+author: smallplum
 category: literature
 layout: post
 ---
